@@ -1,9 +1,10 @@
 # WebDevelopment
 
 ## Useful Websites & Tools
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
-https://devdocs.io/html/
-https://www.w3schools.com/cssref/index.php
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+* https://devdocs.io/html/
+* https://www.w3schools.com/cssref/index.php
+* https://developer.mozilla.org
 Pesticide for Chrome - to show the boxes in the web page
 
 ## Main Topics Covered
