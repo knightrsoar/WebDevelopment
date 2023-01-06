@@ -5,6 +5,7 @@
 * https://devdocs.io/html/
 * https://www.w3schools.com/cssref/index.php
 * https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+* https://https://emojipedia.org/
 * Pesticide for Chrome - to show the boxes in the web page
 
 ## Main Topics Covered
