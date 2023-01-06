@@ -5,7 +5,7 @@
 * https://devdocs.io/html/
 * https://www.w3schools.com/cssref/index.php
 * https://developer.mozilla.org
-Pesticide for Chrome - to show the boxes in the web page
+* Pesticide for Chrome - to show the boxes in the web page
 
 ## Main Topics Covered
 * HTML
